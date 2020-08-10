@@ -3,6 +3,8 @@
     "typescript.updateImportsOnFileMove.enabled": "never",
     "editor.tabSize": 2,
     "editor.autoIndent": "none",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
     "workbench.startupEditor": "newUntitledFile",
     "files.exclude": {
         "**/.git": false

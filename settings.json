@@ -5,6 +5,7 @@
     "editor.autoIndent": "none",
     "editor.detectIndentation": false,
     "editor.insertSpaces": true,
+    "editor.formatOnSave": false,
     "workbench.startupEditor": "newUntitledFile",
     "files.exclude": {
         "**/.git": false

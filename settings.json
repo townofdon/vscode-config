@@ -1,0 +1,31 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "editor.tabSize": 2,
+    "editor.autoIndent": "none",
+    "workbench.startupEditor": "newUntitledFile",
+    "files.exclude": {
+        "**/.git": false
+    },
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "javascript.preferences.quoteStyle": "single",
+    "explorer.confirmDelete": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "code-runner.runInTerminal": true,
+    "diffEditor.renderSideBySide": false,
+    "prettier.printWidth": 120,
+    "prettier.requireConfig": true,
+    "ruby.format": "rubocop",
+    "ruby.intellisense": "rubyLocate",
+    "python.languageServer": "Microsoft",
+    "emmet.includeLanguages": {
+        "erb": "html",
+        "ruby": "html"
+    },
+    "emmet.showSuggestionsAsSnippets": true
+}
